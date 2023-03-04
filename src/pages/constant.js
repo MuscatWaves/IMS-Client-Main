@@ -6,14 +6,14 @@ export const dashboardOperationOptions = [
     icon: MdWorkOutline,
     title: "Recruitment",
     path: "https://ims-recruitment.netlify.app/client",
-    description: "Application for Recruitment Division",
+    description: "Application for Clients using Recruitment Services",
   },
   {
     id: 2,
     icon: MdWorkOutline,
     title: "Accounting",
     path: "https://ims-accounting.netlify.app/client",
-    description: "Application for Recruitment Division",
+    description: "Application for Clients using Accounting Services",
   },
 ];
 
